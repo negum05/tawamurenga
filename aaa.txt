@@ -2,4 +2,3 @@ aaa
 bbb
 ccc
 aiueo
-version 0.00
