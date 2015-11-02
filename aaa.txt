@@ -7,4 +7,5 @@ version 0.01
 {}
 {aiueo
  kakikukeko
- sashisuseso}
+ sashisuseso
+ tachituteto}
