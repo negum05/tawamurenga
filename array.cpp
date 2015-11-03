@@ -14,6 +14,10 @@ NumBox *numbox_array;
 int main()
 {
   int i;
+  char ch = 'A';
+
+  cout << ++ch << endl;
+  cout << endl;
 
   numbox_array = new NumBox[6];
   for( i=0; i<5; i++ ) {
